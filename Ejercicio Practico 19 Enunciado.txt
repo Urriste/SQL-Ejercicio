@@ -1,0 +1,9 @@
+Ejercicio práctico #19
+Ejercicio práctico #19
+
+Has terminado la Sección 5 IN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla film_text de la base de datos sakila.
+
+Filtra la información donde title  sea ZORRO ARK, VIRGIN DAISY, UNITED PILOT
+

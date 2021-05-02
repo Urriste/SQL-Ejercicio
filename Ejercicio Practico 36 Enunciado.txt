@@ -1,0 +1,10 @@
+Ejercicio práctico #36
+Ejercicio práctico #36
+
+Has terminado la Sección 8 INNER JOIN, LEFT JOIN, RIGHT JOIN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla address de la base de datos sakila.
+
+Realiza un INNER JOIN con las tablas city y country
+
+Mostrar las columnas address, city, country

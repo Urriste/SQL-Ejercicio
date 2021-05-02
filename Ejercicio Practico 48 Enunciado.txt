@@ -1,0 +1,9 @@
+Ejercicio práctico #48
+Ejercicio práctico #48
+
+Has terminado la Sección 10 GROUP BY. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla rental de la base de datos sakila.
+
+Realiza un MAX de  la columna rental_date 
+

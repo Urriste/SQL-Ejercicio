@@ -1,0 +1,8 @@
+Ejercicio práctico #30
+Ejercicio práctico #30
+
+Has terminado la Sección 7 LIKE. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla film de la base de datos sakila.
+
+Filtra la información donde release_year sea igual a 2006  y title empiece con ALI.

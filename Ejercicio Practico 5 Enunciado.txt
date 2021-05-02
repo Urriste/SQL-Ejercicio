@@ -1,0 +1,13 @@
+Ejercicio práctico #5
+Ejercicio práctico #5
+
+Has terminado la Sección 2 SELECT, DISTINCT, ORDER BY. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+
+
+Consulta la tabla payment de la base de datos sakila.
+
+
+
+¿Cuál es la cantidad mas baja y mas alta de la columna amount?
+

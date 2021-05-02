@@ -1,0 +1,10 @@
+Ejercicio práctico #51
+Ejercicio práctico #51
+
+Has terminado la Sección 10 HAVING . Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla actor de la base de datos sakila.
+
+Realiza un COUNT de  last_name
+
+Mostrar cuando el COUNT sea mayor de 2

@@ -1,0 +1,9 @@
+Ejercicio práctico #20
+Ejercicio práctico #20
+
+Has terminado la Sección 5 IN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla city de la base de datos sakila.
+
+Filtra la información donde city sea Chiayi, Dongying, Fukuyama y Kilis.
+

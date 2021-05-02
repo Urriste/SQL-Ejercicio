@@ -1,0 +1,1 @@
+select count(rental_id) from sakila.rental;

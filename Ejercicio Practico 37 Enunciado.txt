@@ -1,0 +1,11 @@
+Ejercicio práctico #37
+Ejercicio práctico #37
+
+Has terminado la Sección 8 INNER JOIN, LEFT JOIN, RIGHT JOIN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla customer de la base de datos sakila.
+
+Realiza un LEFT JOIN con las tablas store y address
+
+Mostrar las columnas first_name, address, store_id
+

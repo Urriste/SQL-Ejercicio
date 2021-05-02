@@ -1,0 +1,7 @@
+Ejercicio práctico #24
+
+Has terminado la Sección 6 BETWEEN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla address de la base de datos sakila.
+
+Filtra la información donde city_id esté entre 300 y 350,  

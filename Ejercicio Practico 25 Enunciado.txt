@@ -1,0 +1,8 @@
+Ejercicio práctico #25
+Ejercicio práctico #25
+
+Has terminado la Sección 6 BETWEEN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla film de la base de datos sakila.
+
+Filtra la información donde rental_rate esté entre 0.99 y 2.99, length sea menor igual de 50  y replacement_cost sea menor de 20.

@@ -1,0 +1,8 @@
+Ejercicio práctico #44
+
+Has terminado la Sección 9 COUNT, AVG, SUM, MAX, MIN. Ahora es momento de poner en práctica lo aprendido realizando la siguiente consulta. Las respuestas estarán al final de la sección.
+
+Consulta la tabla rental de la base de datos sakila.
+
+Realiza un COUNT de  la columna rental_id
+
